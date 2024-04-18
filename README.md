@@ -1,2 +1,2 @@
 # kubawini.github.io
-Kubawini personal websitexxx
+Kubawini personal website
